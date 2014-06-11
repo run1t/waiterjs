@@ -1,0 +1,32 @@
+{
+  "name": "waiterjs",
+  "version": "0.0.4",
+  "description": "waiterjs",
+  "license": "MIT",
+  "main": "app/waiterjs.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/run1t/waiterjs"
+  },
+  "author": {
+    "url": "https://github.com/run1t"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "waiterjs"
+  ],
+  "dependencies": {
+    "colors": "0.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/run1t/waiterjs/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/run1t/waiterjs",
+  "_id": "waiterjs@0.0.4",
+  "_shasum": "29674fc3db13d153df3c825c118fbb47c0302a83",
+  "_from": "waiterjs@",
+  "_resolved": "https://registry.npmjs.org/waiterjs/-/waiterjs-0.0.4.tgz"
+}
